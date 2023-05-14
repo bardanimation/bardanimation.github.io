@@ -303,7 +303,8 @@ h6 {
   right: 0;
   left: 0;
   bottom: 0;
-  background: rgba(40, 58, 90, 0.9);
+  background: #00112b;
+  opacity: 0.9;
   transition: 0.3s;
   z-index: 999;
 }
@@ -1128,7 +1129,7 @@ section {
   font-weight: 700;
   margin-bottom: 5px;
   font-size: 20px;
-  color: #37517e;
+  color: #00112b;
 }
 
 .team .member span {
@@ -1174,13 +1175,13 @@ section {
 }
 
 .team .member .social a i {
-  color: #37517e;
+  color: #00112b;
   font-size: 16px;
   margin: 0 2px;
 }
 
 .team .member .social a:hover {
-  background: #47b2e4;
+  background: #00112b;
 }
 
 .team .member .social a:hover i {
@@ -1637,7 +1638,7 @@ section {
 --------------------------------------------------------------*/
 #footer {
   font-size: 14px;
-  background: #37517e;
+  background: #00112b;
 }
 
 #footer .footer-newsletter {
@@ -1709,7 +1710,7 @@ section {
   line-height: 1;
   text-transform: uppercase;
   font-weight: 600;
-  color: #37517e;
+  color: #00112b;
 }
 
 #footer .footer-top .footer-contact p {
@@ -1723,7 +1724,7 @@ section {
 #footer .footer-top h4 {
   font-size: 16px;
   font-weight: bold;
-  color: #37517e;
+  color: #00112b;
   position: relative;
   padding-bottom: 12px;
 }
@@ -1770,7 +1771,7 @@ section {
 #footer .footer-top .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #47b2e4;
+  background: #00112b;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -1783,8 +1784,8 @@ section {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #209dd8;
-  color: #fff;
+  background: #fff;
+  color: #00112b;
   text-decoration: none;
 }
 
